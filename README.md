@@ -24,4 +24,4 @@
 
     
 ## License
-Window-Dancer is licensed under GPL-3.0.
+GPL-3.0.
