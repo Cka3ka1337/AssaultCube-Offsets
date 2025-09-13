@@ -75,7 +75,6 @@ dual    = 20
 knife   = 0
 
 
-
 class ViewMatrix(Structure):
     _fields_ = [
         ('m11', c_float), ('m12', c_float), ('m13', c_float), ('m14', c_float),
