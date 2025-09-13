@@ -17,7 +17,7 @@
 * Head bone position
 * Team number
 * Weapon name in hands
-* All guns ammo and delays bitween shoots and max ammo
+* All guns ammo, delays bitween shoots and max ammo
 * Username
 * View matrix
 * Gamemode
